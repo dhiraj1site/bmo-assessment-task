@@ -4,6 +4,7 @@
 - I would utizilize other APIs such as Search inside API to provide a more fully featured application. 
 - Add parameters to allow search by author, search by text, search by query
 - Show autocomplete suggestions for book/author/subjects as typed
+- Implement pagination for better functionality
 
 # Useful feature in React 16
 2. The most useful feature were react hooks. I have utilized useState, useEffect, useReducer, useRef inside my Search functional component, this has allowed me to skip making class
