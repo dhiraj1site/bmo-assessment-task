@@ -4,7 +4,6 @@ import Button from './Button';
 
 export default function Results(props) {
   const {books} = props;
-  console.log('k ho yar', books);
   if(books === 0) {
     return (
       <div className="card">
