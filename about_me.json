@@ -1,0 +1,20 @@
+{
+  "firstName": "Dhiraj",
+  "lastName": "Timalsina",
+  "isAlive": true,
+  "age": 28,
+  "address": {
+    "streetAddress": "3050 Ellesmere Road",
+    "city": "Toronto",
+    "province": "ON"
+  },
+  "phoneNumbers": [
+    {
+      "type": "personal",
+      "number": "519-995-4236"
+    }
+  ],
+  "profession": "Full Stack Developer",
+  "children": [],
+  "spouse": null
+}
