@@ -2,7 +2,7 @@
 
 # Link to application
 ```
-https://www.bmo.binebox.com
+https://bmo.binebox.com
 ```
 
 - Please refer to Answers-to-technical-questions.md
