@@ -5,8 +5,6 @@
 https://www.bmo.binebox.com
 ```
 
-Note: Author Endpoint is providing a CORS error, so I am pointing to Author URL page instead. 
-Please refer to Answers-to-technical-questions.md
 - Please refer to Answers-to-technical-questions.md
 
 - Note: Author Endpoint is providing a CORS error, so I am pointing to Author URL page instead. 
