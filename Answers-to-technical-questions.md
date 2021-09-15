@@ -1,5 +1,6 @@
 # Time Spent
-1. I spent about 8 hours completing this task.
+1. I spent about 8-10 hours completing this task.
+If I had more time
 - I would add an instant search functionality (show results as typed), and make a much better user interface.
 - I would utizilize other open Library APIs such as Search inside API to provide a better and functional user experience. 
 - Add parameters to allow search by author, search by text, search by query
@@ -30,10 +31,10 @@
 
 # API Improvement
 4. I would improve the api by 
-    - Allowing a limit parameter making query results much faster and constant 
+    - Allowing a limit parameter making query results much faster and consistent
     - Provide the book description on the ISBN endpoint itself 
     - Fix CORS issues for authors endpoint 
-    - Boolean value indicating whether cover image exists to show a placeholder image instead
+    - Boolean value indicating whether cover image exists to show a placeholder image in cases of image not existing
     - Improve the documentation providing extensive detail to acceptable parameters
 
 # About me
