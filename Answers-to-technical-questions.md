@@ -1,10 +1,11 @@
 # Time Spent
 1. I spent about 8 hours completing this task.
-- I would add an instant search functionality (show results as typed), and make a much better design. 
-- I would utizilize other APIs such as Search inside API to provide a more fully featured application. 
+- I would add an instant search functionality (show results as typed), and make a much better user interface.
+- I would utizilize other open Library APIs such as Search inside API to provide a better and functional user experience. 
 - Add parameters to allow search by author, search by text, search by query
-- Show autocomplete suggestions for book/author/subjects as typed
+- Show autocomplete suggestions for books as typed
 - Implement pagination for better functionality
+- Add unit test cases for every component and some integration testing
 
 # Useful feature in React 16
 2. The most useful feature were react hooks. I have utilized useState, useEffect, useReducer, useRef inside my Search functional component, this has allowed me to skip making class
@@ -32,6 +33,7 @@
     - Allowing a limit parameter making query results much faster and constant 
     - Provide the book description on the ISBN endpoint itself 
     - Fix CORS issues for authors endpoint 
+    - Boolean value indicating whether cover image exists to show a placeholder image instead
     - Improve the documentation providing extensive detail to acceptable parameters
 
 # About me
