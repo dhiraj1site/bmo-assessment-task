@@ -3,7 +3,7 @@
 If I had more time
 - I would add an instant search functionality (show results as typed), and make a much better user interface.
 - I would utizilize other open Library APIs such as Search inside API to provide a better and functional user experience. 
-- Add parameters to allow search by author, search by text, search by query
+- Additional features such as search by author, search by text, search by query
 - Show autocomplete suggestions for books as typed
 - Implement pagination for better functionality
 - Add unit test cases for every component and some integration testing
